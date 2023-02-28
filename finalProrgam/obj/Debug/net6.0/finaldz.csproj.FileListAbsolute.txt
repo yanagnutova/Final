@@ -1,0 +1,30 @@
+D:\for C#\finaldz\bin\Debug\net6.0\finaldz.exe
+D:\for C#\finaldz\bin\Debug\net6.0\finaldz.deps.json
+D:\for C#\finaldz\bin\Debug\net6.0\finaldz.runtimeconfig.json
+D:\for C#\finaldz\bin\Debug\net6.0\finaldz.dll
+D:\for C#\finaldz\bin\Debug\net6.0\finaldz.pdb
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.csproj.AssemblyReference.cache
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.GeneratedMSBuildEditorConfig.editorconfig
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.AssemblyInfoInputs.cache
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.AssemblyInfo.cs
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.csproj.CoreCompileInputs.cache
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.dll
+D:\for C#\finaldz\obj\Debug\net6.0\refint\finaldz.dll
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.pdb
+D:\for C#\finaldz\obj\Debug\net6.0\finaldz.genruntimeconfig.cache
+D:\for C#\finaldz\obj\Debug\net6.0\ref\finaldz.dll
+D:\Final\finalProrgam\bin\Debug\net6.0\finaldz.exe
+D:\Final\finalProrgam\bin\Debug\net6.0\finaldz.deps.json
+D:\Final\finalProrgam\bin\Debug\net6.0\finaldz.runtimeconfig.json
+D:\Final\finalProrgam\bin\Debug\net6.0\finaldz.dll
+D:\Final\finalProrgam\bin\Debug\net6.0\finaldz.pdb
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.csproj.AssemblyReference.cache
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.AssemblyInfoInputs.cache
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.AssemblyInfo.cs
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.csproj.CoreCompileInputs.cache
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.dll
+D:\Final\finalProrgam\obj\Debug\net6.0\refint\finaldz.dll
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.pdb
+D:\Final\finalProrgam\obj\Debug\net6.0\finaldz.genruntimeconfig.cache
+D:\Final\finalProrgam\obj\Debug\net6.0\ref\finaldz.dll
